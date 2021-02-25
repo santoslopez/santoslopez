@@ -1,11 +1,12 @@
-# Santos López [santoslopezt.ml](http://santoslopez.github.io)👋 🇬🇹💞🇷🇺
+# Santos López
+[santoslopezt.ml](http://santoslopez.github.io)👋 🇬🇹💞🇷🇺
 
 ## Hola
 
-### Soy Santos López, estudiante de Ingeniería en Sistemas Informática y Ciencias de la Computación.
-### Graduado de Périto en Computación del [Centro Educativo Técnico Laboral Kinal](https://www.kinal.org.gt/) de la ciudad de Guatemala.
+Soy Santos López, estudiante de Ingeniería en Sistemas Informática y Ciencias de la Computación.
+Graduado de Périto en Computación del [Centro Educativo Técnico Laboral Kinal](https://www.kinal.org.gt/) de la ciudad de Guatemala.
 
-<img style="padding-top:30px;width:100%;height:100%;" src="/santoslopez/santoslopez.gif" alt="santoslopez">
+<img style="padding-top:30px;width:100%;height:100%;" src="/sitioweb/santoslopez.gif" alt="santoslopez">
 
 
 <!--
