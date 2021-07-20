@@ -1,7 +1,7 @@
 # Santos López
-[santoslopez.ml](http://santoslopez.github.io)👋 🇬🇹💞🇷🇺
+[santoslopez.ml](https://santoslopez.github.io)👋 🇬🇹💞🇷🇺
 
-## Hola
+## Bienvenido
 Hola, soy Santos López, estudiante de último año de Ingeniería en Sistemas Informática y Ciencias de la Computación en la Universidad Galileo de Guatemala. Me gradué de la carrera de Périto en Informática del [Centro Educativo Técnico Laboral Kinal](https://www.kinal.org.gt/). He tomado cursos como: Web Applications Php, Introduction to HTML5: ofrecidos por la Universidad de Michigan por medio de la plataforma Coursera y actualmente estoy tomando el curso CS50 ofrecido por la Universidad de Harvard por medio de la plataforma edX.
 
 <img style="padding-top:30px;width:100%;height:100%;" src="/sitioweb/santoslopez.gif" alt="santoslopez">
