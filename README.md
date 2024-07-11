@@ -1,16 +1,16 @@
-## Hola
-Soy Santos López, estudiante de la **Maestría en Tecnologías de la Información**, previamente finalice el **Postgrado en Sistemas de Información** y estoy por iniciar el **Postgrado en base de datos**. Me faltan 4 cursos de finalizar mi carrera de Ingeniería en Sistemas Informática y Ciencias de la Computación en la Universidad Galileo de Guatemala. Estoy graduado de la carrera de Périto en Informática en el [Centro Educativo Técnico Laboral Kinal](https://www.kinal.org.gt)
+## ¡Hola!
+Soy Santos López, tengo un Postgrado en Sistemas de Información y actualmente estoy cursando el **Postgrado de Base de Datos** para finalizar la **Maestría en Tecnologías de la Información**. Estoy a dos cursos de terminar la carrera de **Ingeniería en Sistemas Informática y Ciencias de la Computación** en la **Universidad Galileo de Guatemala**. Graduado de **Périto en Informática** del **[Centro Educativo Técnico Laboral Kinal](https://www.kinal.org.gt)**.
 
-He adquirido experiencia en programación a través de cursos como: [Introduction to HTML5](https://es.coursera.org/learn/html), [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50’s Introduction to Databases with SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql), [CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)[Web Applications Php](https://coursera.org/learn/web-applications-php), etc.
+He adquirido experiencia en programación a través de cursos como: [Introduction to HTML5](https://es.coursera.org/learn/html), [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50’s Introduction to Databases with SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql), [CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript), [Web Applications Php](https://coursera.org/learn/web-applications-php), etc.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoslopez&label=Profile%20views&color=0e75b6&style=flat" alt="santoslopez" /> </p>
 
 ### Sitio web
-[santoslopezt.me](https://santoslopez.github.io)
+[santoslopez.me](https://santoslopez.github.io)
 
 - 🌱 Actualmente estoy matrículado al curso **[CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)**
 
-- 👨‍💻 Proyectos realizados [gitHub.com/santoslopez](https://gitHub.com/santoslopez)
+- 👨‍💻 Proyectos realizados [github.com/santoslopez](https://gitHub.com/santoslopez)
 
 - 📫 Contáctame **santos.lopez@galileo.edu**
 
