@@ -9,7 +9,7 @@ He adquirido experiencia en programación a través de cursos como: [Introductio
 -  Sitio web: [santoslopez.me](https://santoslopez.github.io)
 - 🌱 Actualmente estoy matriculado al curso **[CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)**
 - 📫 Correo: **santos.lopez@galileo.edu**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lopez-santos)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lopezsantos)
 
 <h3 align="left">Kaggle</h3>
 <p align="left">
