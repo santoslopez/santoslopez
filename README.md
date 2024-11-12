@@ -114,7 +114,8 @@ He adquirido experiencia en programación a través de cursos como: [Introductio
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoslopez&show_icons=true&locale=en&layout=compact" alt="Estadísticas de lenguajes de programación de Santos López" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoslopez&show_icons=true&locale=en&layout=compact&langs_count=15" alt="Estadísticas de lenguajes de programación de Santos López" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoslopez&" alt="Racha de contribuciones de Santos López" /></p>
 
