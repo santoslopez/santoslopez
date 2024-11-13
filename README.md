@@ -1,4 +1,4 @@
-# 🧑‍💻 Santos Lopez - Web Developer & Software Engineer
+# 🧑‍💻 Santos Lopez 
 
 <div align="center">
   <img src="img/santoslopez.png" alt="Foto de Perfil de Santos" width="150"/>
