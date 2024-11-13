@@ -55,4 +55,4 @@
 Consulta la sección de **[Contacto](contactar.md)** para comunicarte conmigo.
 ---  -->
 
-Regresar al **[Inicio](README.md)**
+Regresar a <a href="https://github.com/santoslopez">inicio</a>

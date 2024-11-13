@@ -109,4 +109,4 @@
 </div>
 
 
-Regresar al **[Inicio](README.md)**
+Regresar a <a href="https://github.com/santoslopez">inicio</a>

@@ -42,4 +42,4 @@
   <p>© 2024 - Santos López | Todos los derechos reservados</p>
 </div>
 
-Regresar al [Inicio](README.md)
+Regresar a <a href="https://github.com/santoslopez">inicio</a>
