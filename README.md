@@ -10,8 +10,8 @@
 
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=santoslopez&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas al perfil de Santos López"/>
-  <a>
-<img src="https://https://santoslopez.github.io" alt="GitHub"/></a>
+  <a href="https://github.com/santoslopez">
+<img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=fff" alt="GitHub"/></a>
     <a href="https://linkedin.com/in/lopezsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff" alt="LinkedIn"/></a>
     <a href="https://santoslopez.github.io/assets/cv/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/-Descargar%20Currículum-%231E1E1E?logo=pdf&logoColor=fff" alt="Descargar CV"/></a>
   </div>
