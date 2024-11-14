@@ -34,7 +34,7 @@
 
 ## 🚀 ¡Hola!
 
-- Soy Santos López, tengo un Postgrado en Sistemas de Información. Actualmente estoy cursando el último trimestre del **Postgrado de Base de Datos**, lo cual me permitirá obtener el título de **Maestría en Tecnologías de la Información**. Estoy a 2 cursos de completar la carrera de **Ingeniería en Sistemas Informática y Ciencias de la Computación** en la **Universidad Galileo de Guatemala**. Graduado de **Périto en Informática** del  **[Centro Educativo Técnico Laboral Kinal](https://www.kinal.org.gt)**.
+- Soy Santos López, tengo un Postgrado en Sistemas de Información. Actualmente estoy cursando el último trimestre del **Postgrado de Base de Datos**, lo cual me permitirá obtener el título de **Maestría en Tecnologías de la Información**. Estoy a 1 curso de completar la carrera de **Ingeniería en Sistemas Informática y Ciencias de la Computación** en la **Universidad Galileo de Guatemala**. Graduado de **Périto en Informática** del  **[Centro Educativo Técnico Laboral Kinal](https://www.kinal.org.gt)**.
 
 - He adquirido experiencia en programación a través de cursos como: [Introduction to HTML5](https://es.coursera.org/learn/html), [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50’s Introduction to Databases with SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql), [CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript), [Web Applications Php](https://coursera.org/learn/web-applications-php), etc.
 ---
