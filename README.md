@@ -1,4 +1,4 @@
-# 🧑‍💻 Santos Lopez 
+# 🧑‍💻 Santos López 
 
 <div align="center">
   <img src="img/santoslopez.png" alt="Foto de Perfil de Santos" width="150"/>
@@ -34,12 +34,28 @@
 
 ## 🚀 ¡Hola!
 
-- Soy Santos López, tengo un Postgrado en Sistemas de Información. Actualmente estoy cursando el último trimestre del **Postgrado de Base de Datos**, lo cual me permitirá obtener el título de **Maestría en Tecnologías de la Información**. Estoy a 1 curso de completar la carrera de **Ingeniería en Sistemas Informática y Ciencias de la Computación** en la **Universidad Galileo de Guatemala**. Graduado de **Périto en Informática** del  **[Centro Educativo Técnico Laboral Kinal](https://www.kinal.org.gt)**.
+- Soy Santos López, un apasionado del desarrollo de software con experiencia en proyectos personales. He trabajado con tecnologías como Python, PHP, Java, Flask y bases de datos relacionales como SQL Server, MySQL, PostgreSQL, Azure y SQLite. Me motiva enfrentar nuevos desafíos, aprender de manera continua y contribuir con soluciones innovadoras a proyectos tecnológicos.
 
-- He adquirido experiencia en programación a través de cursos como: [Introduction to HTML5](https://es.coursera.org/learn/html), [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50’s Introduction to Databases with SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql), [CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript), [Web Applications Php](https://coursera.org/learn/web-applications-php), etc.
+### Educación
+- **[Universidad Galileo](https://www.galileo.edu/)**
+  - **Maestría en Tecnologías de la Información**  
+    *Magna Cum Laude*
+  - Postgrado en Base de Datos (2024)  
+  - Postgrado en Sistemas de Información (2023)  
+  - *En proceso de aprobar un curso pendiente de ingeniería para formalizar ambos títulos.*
+
+- **[Universidad Galileo](https://www.galileo.edu/)**
+  - **Ingeniería de Sistemas Informática y Ciencias de la Computación**  
+    *A un curso para cerrar pénsum.*
+
+- **[Fundación Kinal](https://www.kinal.org.gt)**
+  - **Perito en Informática**
+
+<!--- He adquirido experiencia en programación a través de cursos como: [Introduction to HTML5](https://es.coursera.org/learn/html), [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50’s Introduction to Databases with SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql), [CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript), [Web Applications Php](https://coursera.org/learn/web-applications-php), etc.-->
+
 ---
 
-## 📄 Recursos adicionales
+#### 📄 Recursos adicionales
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoslopez&show_icons=true&locale=en&layout=compact&langs_count=15" alt="Estadísticas de lenguajes de programación de Santos López" /></p>
 
@@ -51,7 +67,7 @@
 - **[Currículum](https://santoslopez.github.io/assets/cv/resume.pdf)**
 - **[LinkedIn](https://linkedin.com/in/lopezsantos)**
 ---
-## 📬 Contacto
+#### 📬 Contacto
 Consulta la sección de **[Contacto](contactar.md)** para comunicarte conmigo.
 ---  -->
 
