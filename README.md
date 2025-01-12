@@ -40,7 +40,7 @@
 - **[Universidad Galileo](https://www.galileo.edu/)**
   - **Maestría en Tecnologías de la Información**  
     *Magna Cum Laude*
-  - Postgrado en Base de Datos (2025)  
+  - Postgrado en Base de Datos (2024)  
   - Postgrado en Sistemas de Información (2023)  
   - *En proceso de aprobar un curso pendiente de ingeniería para formalizar ambos títulos.*
 
