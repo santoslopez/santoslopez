@@ -40,7 +40,7 @@
 - **[Universidad Galileo](https://www.galileo.edu/)**
   - **Maestría en Tecnologías de la Información**  
     *Magna Cum Laude*
-  - Postgrado en Base de Datos (2024)  
+  - Postgrado en Base de Datos (2025)  
   - Postgrado en Sistemas de Información (2023)  
   - *En proceso de aprobar un curso pendiente de ingeniería para formalizar ambos títulos.*
 
@@ -60,7 +60,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoslopez&show_icons=true&locale=en&layout=compact&langs_count=15" alt="Estadísticas de lenguajes de programación de Santos López" /></p>
 
 <div align="center" style="background-color: blue; color: white; padding: 10px;">
-  <p>© 2024 - Santos López | Todos los derechos reservados</p>
+  <p>© 2025 - Santos López | Todos los derechos reservados</p>
 </div>
 <!-- ## 📄 Recursos adicionales
 - **[Portafolio](https://santoslopez.me)**

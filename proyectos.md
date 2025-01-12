@@ -66,7 +66,7 @@
 
 ---
 <div align="center" style="background-color: blue; color: white; padding: 10px;">
-  <p>© 2024 - Santos López | Todos los derechos reservados</p>
+  <p>© 2025 - Santos López | Todos los derechos reservados</p>
 </div>
 
 
