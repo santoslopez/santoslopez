@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="img/santoslopez.png" alt="Foto de Perfil de Santos" width="150"/>
-  <h3>Santos López</h3>
+  <h3>Santos López | Backend</h3>
   <!--p>
     <strong>Ingeniero de Software y Desarrollador Web</strong><br/>
     Especializado en desarrollo web full stack, apasionado por soluciones digitales.
@@ -21,7 +21,7 @@
 <div align="center">
   <a href="https://github.com/santoslopez"><img src="https://img.shields.io/badge/-Inicio-007bff?logo=home&logoColor=fff" alt="Inicio"/></a> | 
   <a href="proyectos.md"><img src="https://img.shields.io/badge/-Proyectos-28a745?logo=project-diagram&logoColor=fff" alt="Proyectos"/></a> |
-  <a href="tecnologias.md"><img src="https://img.shields.io/badge/-Tecnologías-ff6347?logo=tools&logoColor=fff" alt="Tecnologías"/></a> |
+  <a href="educacion.md"><img src="https://img.shields.io/badge/-Tecnologías-ff6347?logo=tools&logoColor=fff" alt="Tecnologías"/></a> |
   <a href="contactar.md"><img src="https://img.shields.io/badge/-Contacto-007bff?logo=envelope&logoColor=fff" alt="Contacto"/></a>
 </div>
 
