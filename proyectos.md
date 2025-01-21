@@ -22,20 +22,16 @@
 <div align="center">
   <a href="https://github.com/santoslopez"><img src="https://img.shields.io/badge/-Inicio-007bff?logo=home&logoColor=fff" alt="Inicio"/></a> | 
   <a href="proyectos.md"><img src="https://img.shields.io/badge/-Proyectos-28a745?logo=project-diagram&logoColor=fff" alt="Proyectos"/></a> |
-  <a href="educacion.md"><img src="https://img.shields.io/badge/-Tecnologías-ff6347?logo=tools&logoColor=fff" alt="Tecnologías"/></a> |
+  <a href="educacion.md"><img src="https://img.shields.io/badge/-Educación-ff6347?logo=tools&logoColor=fff" alt="Educación"/></a> |
   <a href="contactar.md"><img src="https://img.shields.io/badge/-Contacto-007bff?logo=envelope&logoColor=fff" alt="Contacto"/></a>
 </div>
-
-
-
-
 ---
 
 
 ## 📋 Proyectos destacados
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://santoslopez.github.io/assets/posts/rpp-flask/diagrama-protoboard-raspberrys-uart.webp" alt="Protocolo para envío y recepción de mensajes entre Raspberry Pi Pico con interfaz gráfica de usuario" style="width: 40%; height: 100px; border-radius: 8px; margin-right: 15px;">
+  <img src="https://santoslopez.github.io/assets/posts/rpp-flask/diagrama-protoboard-raspberrys-uart.webp" alt="Protocolo para envío y recepción de mensajes entre Raspberry Pi Pico con interfaz gráfica de usuario" style="width: 40%; height: 150px; border-radius: 8px; margin-right: 15px;">
   <div>
     <h3 style="margin: 0;">Protocolo para envio y recepción de mensajes entre Raspberry Pi Pico con interfaz gráfica de usuario (Gui)</h3>
     <a href="https://github.com/santoslopez/RaspberryPiPico-Gui-Serial-Uart" style="color: #0073b1; text-decoration: none;">Ver en GitHub</a>
@@ -45,7 +41,7 @@
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://santoslopez.github.io/assets/posts/perseverancia/21.webp" alt="Aprendizaje de idiomas mayas de Guatemala" style="width: 40%; height: 100px; border-radius: 8px; margin-right: 15px;">
+  <img src="https://santoslopez.github.io/assets/posts/perseverancia/21.webp" alt="Aprendizaje de idiomas mayas de Guatemala" style="width: 40%; height: 150px; border-radius: 8px; margin-right: 15px;">
   <div>
     <h3 style="margin: 0;">Aprendizaje de idiomas mayas de Guatemala</h3>
     <a href="https://github.com/santoslopez/software-idiomas-mayas" style="color: #0073b1; text-decoration: none;">Ver en GitHub</a>
@@ -55,7 +51,7 @@
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://santoslopez.github.io/assets/posts/software-inventario/5.webp" alt="Software pa facturación y control de inventario" style="width: 40%; height:100px; border-radius: 8px; margin-right: 15px;">
+  <img src="https://santoslopez.github.io/assets/posts/software-inventario/5.webp" alt="Software pa facturación y control de inventario" style="width: 40%; height:150px; border-radius: 8px; margin-right: 15px;">
   <div>
     <h3 style="margin: 0;">Software de control de inventario</h3>
     <a href="https://github.com/santoslopez/sistema-inventario-facturacion" style="color: #0073b1; text-decoration: none;">Ver en GitHub</a>

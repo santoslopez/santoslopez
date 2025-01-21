@@ -1,4 +1,4 @@
-# 📬 Contacto
+# 🧑‍💻 Tecnologías y Herramientas
 
 <div align="center">
   <img src="img/santoslopez.png" alt="Foto de Perfil de Santos" width="150"/>
@@ -9,6 +9,7 @@
   </p-->
 
   <div align="center">
+    <!--img src="https://visitor-badge.laobi.icu/badge?page_id=santoslopez.github.io" alt="Contador de visitas"-->
   <a href="https://github.com/santoslopez">
 <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=fff" alt="GitHub"/></a>
     <a href="https://linkedin.com/in/lopezsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff" alt="LinkedIn"/></a>
@@ -26,16 +27,26 @@
 </div>
 ---
 
-## 📬 ¿Cómo contactar?
+### Educación
+- **[Universidad Galileo](https://www.galileo.edu/)**
+  - **Maestría en Tecnologías de la Información**  
+    *Magna Cum Laude*
+  - Postgrado en Base de Datos (2024)  
+  - Postgrado en Sistemas de Información (2023)  
+  - *En proceso de aprobar un curso pendiente de ingeniería para formalizar ambos títulos.*
 
-- **Email**: [santoslopez@galileo.edu](mailto:santos.lopez@galileo.edu)
-- **LinkedIn**: [Visita mi perfil](https://linkedin.com/in/lopezsantos)
-- **GitHub**: [Visita mi GitHub](https://github.com/santoslopez)
+- **[Universidad Galileo](https://www.galileo.edu/)**
+  - **Ingeniería de Sistemas Informática y Ciencias de la Computación**  
+    *A un curso para cerrar pénsum.*
 
+- **[Fundación Kinal](https://www.kinal.org.gt)**
+  - **Perito en Informática**
+
+<!--- He adquirido experiencia en programación a través de cursos como: [Introduction to HTML5](https://es.coursera.org/learn/html), [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50’s Introduction to Databases with SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql), [CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript), [Web Applications Php](https://coursera.org/learn/web-applications-php), etc.-->
 ---
-
 <div align="center" style="background-color: blue; color: white; padding: 10px;">
   <p>© 2025 - Santos López | Todos los derechos reservados</p>
 </div>
+
 
 Regresar a <a href="https://github.com/santoslopez">inicio</a>

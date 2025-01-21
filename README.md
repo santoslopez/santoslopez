@@ -22,7 +22,7 @@
 <div align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/-Inicio-007bff?logo=home&logoColor=fff" alt="Inicio"/></a> | 
   <a href="proyectos.md"><img src="https://img.shields.io/badge/-Proyectos-28a745?logo=project-diagram&logoColor=fff" alt="Proyectos"/></a> |
-  <a href="educacion.md"><img src="https://img.shields.io/badge/-Tecnologías-ff6347?logo=tools&logoColor=fff" alt="Tecnologías"/></a> |
+  <a href="educacion.md"><img src="https://img.shields.io/badge/-Educación-ff6347?logo=tools&logoColor=fff" alt="Educación"/></a> |
   <a href="contactar.md"><img src="https://img.shields.io/badge/-Contacto-007bff?logo=envelope&logoColor=fff" alt="Contacto"/></a>
 </div>
 
@@ -42,20 +42,20 @@
   <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=fff" alt="R"/>
 </div>
 
-**Frameworks y Bibliotecas**
+<code>Frameworks y Bibliotecas</code>
 <div align="center">
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=fff" alt="Flask"/>
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=fff" alt="jQuery"/>
 </div>
 
-**Tecnologías de Desarrollo Web Frontend**
+<code>Tecnologías de Desarrollo Web Frontend</code>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap"/>
 </div>
 
-**Sistemas de Gestión de Bases de Datos (DBMS)**
+<code>Sistemas de Gestión de Bases de Datos (DBMS)</code>
 <div align="center">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="SQL Server"/>
@@ -63,43 +63,43 @@
   <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff" alt="SQLite"/>
 </div>
 
-**Herramientas de Desarrollo y Control de Versiones**
+<code>Herramientas de Desarrollo y Control de Versiones</code>
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff" alt="GitHub"/>
 </div>
 
-**Herramientas de Diseño y Prototipado**
+<code>Herramientas de Diseño y Prototipado</code>
 <div align="center">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff" alt="Figma"/>
   <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=fff" alt="Notion"/>
 </div>
 
-**Herramientas de Gestión y Desarrollo**
+<code>Herramientas de Gestión y Desarrollo</code>
 <div align="center">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"/>
   <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=fff" alt="Apache"/>
   <img src="https://img.shields.io/badge/-Raspberry_Pi_Pico-A22846?logo=raspberrypi&logoColor=fff" alt="Raspberry Pi Pico"/>
 </div>
 
-**Herramientas de Documentación y Procesamiento de Texto**
+<code>Herramientas de Documentación y Procesamiento de Texto</code>
 <div align="center">
   <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=fff" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=fff" alt="Markdown"/>
 </div>
 
-**Herramientas y Tecnologías de Redes**
+<code>Herramientas y Tecnologías de Redes</code>
 <div align="center">
   <img src="https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=fff" alt="Cisco"/>
 </div>
 
-**Sitios Web Estáticos**
+<code>Sitios Web Estáticos</code>
 <div align="center">
   <!-- Añadir otras herramientas o frameworks si es necesario -->
   <img src="https://img.shields.io/badge/-Sitios_Web_Estáticos-4B0082?logo=jekyll&logoColor=fff" alt="Sitios Web Estáticos"/>
 </div>
 
-**Sistemas Operativos**
+<code>Sistemas Operativos</code>
 <div align="center">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=fff" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=fff" alt="macOS"/>
