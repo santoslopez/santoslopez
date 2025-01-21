@@ -105,6 +105,7 @@
   <img src="https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=fff" alt="macOS"/>
   <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=fff" alt="Windows"/>
 </div>
+
 ---
 
 #### 📄 Recursos adicionales
