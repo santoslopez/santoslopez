@@ -42,9 +42,9 @@
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="50"/>
-  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/w3_html5/index.html&backText=Return+to+VectorLogoZone" alt="HTML5" width="50"/>
-  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/w3_css/index.html&backText=Return+to+VectorLogoZone" alt="CSS3" width="50"/>
-  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/getbootstrap/index.html&backText=Return+to+VectorLogoZone" alt="Bootstrap" width="50"/>
+  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg&zoom=max&backUrl=" alt="HTML5" width="50"/>
+  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg&zoom=max&backUrl=" alt="CSS3" width="50"/>
+  <img src="https://view.svg.zone/view.html?url=" alt="Bootstrap" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50"/>
   <img src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="SQL Server" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50"/>
