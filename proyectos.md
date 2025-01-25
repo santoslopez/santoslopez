@@ -25,6 +25,7 @@
   <a href="educacion.md"><img src="https://img.shields.io/badge/-Educación-ff6347?logo=tools&logoColor=fff" alt="Educación"/></a> |
   <a href="contactar.md"><img src="https://img.shields.io/badge/-Contacto-007bff?logo=envelope&logoColor=fff" alt="Contacto"/></a>
 </div>
+
 ---
 
 

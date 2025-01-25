@@ -29,9 +29,9 @@
 
 ## 📬 ¿Cómo contactar?
 
-- **Email**: [santoslopez@galileo.edu](mailto:santos.lopez@galileo.edu)
-- **LinkedIn**: [Visita mi perfil](https://linkedin.com/in/lopezsantos)
-- **GitHub**: [Visita mi GitHub](https://github.com/santoslopez)
+- **Email**: [<img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="Email" width="20"/>](mailto:santos.lopez@galileo.edu)
+- **LinkedIn**: [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="20"/>](https://linkedin.com/in/lopezsantos)
+- **GitHub**: [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="20"/>](https://github.com/santoslopez)
 
 ---
 

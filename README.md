@@ -32,78 +32,37 @@
 
 - Soy Santos López, un apasionado del desarrollo de software con experiencia en proyectos personales. He trabajado con tecnologías como Python, PHP, Java, Flask y bases de datos relacionales como SQL Server, MySQL, PostgreSQL, Azure y SQLite. Me motiva enfrentar nuevos desafíos, aprender de manera continua y contribuir con soluciones innovadoras a proyectos tecnológicos.
 
-### Lenguajes de Programación
+### Habilidades técnicas
 <div align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff" alt="C"/>
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff" alt="Java"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
-  <img src="https://img.shields.io/badge/-PHP-787CB5?logo=php&logoColor=fff" alt="PHP"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=fff" alt="R"/>
-</div>
-
-<code>Frameworks y Bibliotecas</code>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=fff" alt="Flask"/>
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=fff" alt="jQuery"/>
-</div>
-
-<code>Tecnologías de Desarrollo Web Frontend</code>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap"/>
-</div>
-
-<code>Sistemas de Gestión de Bases de Datos (DBMS)</code>
-<div align="center">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff" alt="SQLite"/>
-</div>
-
-<code>Herramientas de Desarrollo y Control de Versiones</code>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff" alt="GitHub"/>
-</div>
-
-<code>Herramientas de Diseño y Prototipado</code>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff" alt="Figma"/>
-  <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=fff" alt="Notion"/>
-</div>
-
-<code>Herramientas de Gestión y Desarrollo</code>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=fff" alt="Apache"/>
-  <img src="https://img.shields.io/badge/-Raspberry_Pi_Pico-A22846?logo=raspberrypi&logoColor=fff" alt="Raspberry Pi Pico"/>
-</div>
-
-<code>Herramientas de Documentación y Procesamiento de Texto</code>
-<div align="center">
-  <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=fff" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=fff" alt="Markdown"/>
-</div>
-
-<code>Herramientas y Tecnologías de Redes</code>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=fff" alt="Cisco"/>
-</div>
-
-<code>Sitios Web Estáticos</code>
-<div align="center">
-  <!-- Añadir otras herramientas o frameworks si es necesario -->
-  <img src="https://img.shields.io/badge/-Sitios_Web_Estáticos-4B0082?logo=jekyll&logoColor=fff" alt="Sitios Web Estáticos"/>
-</div>
-
-<code>Sistemas Operativos</code>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=fff" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=fff" alt="macOS"/>
-  <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=fff" alt="Windows"/>
+  <p>
+    <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/flask/flask-icon.svg" alt="Flask" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/microsoftsqlserver/microsoftsqlserver-icon.svg" alt="SQL Server" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi Pico" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/latex-project/latex-project-icon.svg" alt="LaTeX" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/markdown/markdown-icon.svg" alt="Markdown" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macOS" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="40" />
+  </p>
 </div>
 
 ---
