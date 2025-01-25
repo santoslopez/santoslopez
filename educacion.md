@@ -22,7 +22,7 @@
 <div align="center">
   <a href="https://github.com/santoslopez"><img src="https://img.shields.io/badge/-Inicio-007bff?logo=home&logoColor=fff" alt="Inicio"/></a> | 
   <a href="proyectos.md"><img src="https://img.shields.io/badge/-Proyectos-28a745?logo=project-diagram&logoColor=fff" alt="Proyectos"/></a> |
-  <a href="educacion.md"><img src="https://img.shields.io/badge/-Educación-ff6347?logo=tools&logoColor=fff" alt="Educación"/></a> |
+   |
   <a href="contactar.md"><img src="https://img.shields.io/badge/-Contacto-007bff?logo=envelope&logoColor=fff" alt="Contacto"/></a>
 </div>
 

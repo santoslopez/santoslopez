@@ -22,7 +22,7 @@
 <div align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/-Inicio-007bff?logo=home&logoColor=fff" alt="Inicio"/></a> | 
   <a href="proyectos.md"><img src="https://img.shields.io/badge/-Proyectos-28a745?logo=project-diagram&logoColor=fff" alt="Proyectos"/></a> |
-  <a href="educacion.md"><img src="https://img.shields.io/badge/-Educación-ff6347?logo=tools&logoColor=fff" alt="Educación"/></a> |
+  <!--a href="educacion.md"><img src="https://img.shields.io/badge/-Educación-ff6347?logo=tools&logoColor=fff" alt="Educación"/></a> |-->
   <a href="contactar.md"><img src="https://img.shields.io/badge/-Contacto-007bff?logo=envelope&logoColor=fff" alt="Contacto"/></a>
 </div>
 
@@ -31,6 +31,21 @@
 ## 😀 ¡Hola!
 
 - Soy Santos López, un apasionado del desarrollo de software con experiencia en proyectos personales. He trabajado con tecnologías como Python, PHP, Java, Flask y bases de datos relacionales como SQL Server, MySQL, PostgreSQL, Azure y SQLite. Me motiva enfrentar nuevos desafíos, aprender de manera continua y contribuir con soluciones innovadoras a proyectos tecnológicos.
+
+### Educación
+- **[Universidad Galileo](https://www.galileo.edu/)**
+  - **Maestría en Tecnologías de la Información**  
+    *Magna Cum Laude*
+  - Postgrado en Base de Datos (2024)  
+  - Postgrado en Sistemas de Información (2023)  
+  - *En proceso de aprobar un curso pendiente de ingeniería para formalizar ambos títulos.*
+
+- **[Universidad Galileo](https://www.galileo.edu/)**
+  - **Ingeniería de Sistemas Informática y Ciencias de la Computación**  
+    *A un curso para cerrar pénsum.*
+
+- **[Fundación Kinal](https://www.kinal.org.gt)**
+  - **Perito en Informática**
 
 ### Tecnologías 
 <div align="center">
