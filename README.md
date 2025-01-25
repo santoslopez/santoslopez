@@ -34,7 +34,7 @@
 
 ### Tecnologías 
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" width="50"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff" alt="C" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50"/>
@@ -42,7 +42,7 @@
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="50"/>
-  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg&zoom=max&backUrl=" alt="HTML5" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="50"/>
   <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg&zoom=max&backUrl=" alt="CSS3" width="50"/>
   <img src="https://view.svg.zone/view.html?url=" alt="Bootstrap" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50"/>
