@@ -43,13 +43,13 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="50"/>
-  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg&zoom=max&backUrl=" alt="CSS3" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS3" width="50"/>
   <img src="https://view.svg.zone/view.html?url=" alt="Bootstrap" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50"/>
   <img src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="SQL Server" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git/git-icon.svg" alt="Git" width="50"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi Pico" width="50"/>
