@@ -40,11 +40,6 @@
   - **Ingeniería de Sistemas Informática y Ciencias de la Computación**  
     *En proceso de aprobar un curso pendiente para formalizar el título de Maestría y Ingeniería.*
 
-
-- **[Universidad Galileo](https://www.galileo.edu/)**
-  - **Ingeniería de Sistemas Informática y Ciencias de la Computación**  
-    *A un curso para cerrar pénsum.*
-
 - **[Fundación Kinal](https://www.kinal.org.gt)**
   - **Perito en Informática**
 
