@@ -57,8 +57,8 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS3" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50"/>
-  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="SQL Server" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50"/>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git" width="50"/>
@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=fff" alt="LaTeX" width="50"/>
   <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=fff" alt="Markdown" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="50"/>
-  <img src="https://img.shields.io/badge/-Sitios_Web_Estáticos-4B0082?logo=jekyll&logoColor=fff" alt="Sitios Web Estáticos" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="Sitios Web Estáticos" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macOS" width="50"/>
   <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=fff" alt="Windows" width="50"/>
