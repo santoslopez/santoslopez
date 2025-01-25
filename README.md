@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 ¡Hola!
+## 😀 ¡Hola!
 
 - Soy Santos López, un apasionado del desarrollo de software con experiencia en proyectos personales. He trabajado con tecnologías como Python, PHP, Java, Flask y bases de datos relacionales como SQL Server, MySQL, PostgreSQL, Azure y SQLite. Me motiva enfrentar nuevos desafíos, aprender de manera continua y contribuir con soluciones innovadoras a proyectos tecnológicos.
 
