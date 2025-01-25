@@ -32,13 +32,14 @@
 
 - Soy Santos López, un apasionado del desarrollo de software con experiencia en proyectos personales. He trabajado con tecnologías como Python, PHP, Java, Flask y bases de datos relacionales como SQL Server, MySQL, PostgreSQL, Azure y SQLite. Me motiva enfrentar nuevos desafíos, aprender de manera continua y contribuir con soluciones innovadoras a proyectos tecnológicos.
 
-### Educación
+### Educación  
 - **[Universidad Galileo](https://www.galileo.edu/)**
-  - **Maestría en Tecnologías de la Información**  
-    *Magna Cum Laude*
-  - Postgrado en Base de Datos (2024)  
-  - Postgrado en Sistemas de Información (2023)  
-  - *En proceso de aprobar un curso pendiente de ingeniería para formalizar ambos títulos.*
+  - **Maestría en Tecnologías de la Información** *(Magna Cum Laude)*  
+    - Postgrado en Base de Datos 2024 
+    - Postgrado en Sistemas de Información 2023
+  - **Ingeniería de Sistemas Informática y Ciencias de la Computación**  
+    *En proceso de aprobar un curso pendiente para formalizar el título de Maestría y Ingeniería.*
+
 
 - **[Universidad Galileo](https://www.galileo.edu/)**
   - **Ingeniería de Sistemas Informática y Ciencias de la Computación**  
