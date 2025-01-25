@@ -32,76 +32,78 @@
 
 - Soy Santos López, un apasionado del desarrollo de software con experiencia en proyectos personales. He trabajado con tecnologías como Python, PHP, Java, Flask y bases de datos relacionales como SQL Server, MySQL, PostgreSQL, Azure y SQLite. Me motiva enfrentar nuevos desafíos, aprender de manera continua y contribuir con soluciones innovadoras a proyectos tecnológicos.
 
-# 🧑‍💻 Santos López
-
+### Lenguajes de Programación
 <div align="center">
-  <img src="img/santoslopez.png" alt="Foto de Perfil de Santos" width="150"/>
-  <h3>Santos López | Backend Developer</h3>
-
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=santoslopez&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas al perfil de Santos López"/>
-    <a href="https://github.com/santoslopez">
-      <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=fff" alt="GitHub"/>
-    </a>
-    <a href="https://linkedin.com/in/lopezsantos" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff" alt="LinkedIn"/>
-    </a>
-    <a href="https://santoslopez.github.io/assets/cv/resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/-Descargar%20Currículum-%231E1E1E?logo=pdf&logoColor=fff" alt="Descargar CV"/>
-    </a>
-  </div>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff" alt="C" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="50"/>
 </div>
 
----
-
-## 🚀 ¡Hola!
-
-Soy Santos López, un desarrollador backend con experiencia en una variedad de tecnologías. Me apasiona la resolución de problemas, el aprendizaje constante y la implementación de soluciones eficaces. He trabajado con lenguajes como Java, Python, JavaScript, PHP, y con diversas bases de datos como MySQL, PostgreSQL y SQL Server.
-
-### Tecnologías y Herramientas
+<code>Frameworks y Bibliotecas</code>
 <div align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff" alt="C"/>
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff" alt="Java"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
-  <img src="https://img.shields.io/badge/-PHP-787CB5?logo=php&logoColor=fff" alt="PHP"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=fff" alt="R"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=fff" alt="Flask"/>
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=fff" alt="jQuery"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff" alt="Figma"/>
-  <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=fff" alt="Notion"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=fff" alt="Apache"/>
-  <img src="https://img.shields.io/badge/-Raspberry_Pi_Pico-A22846?logo=raspberrypi&logoColor=fff" alt="Raspberry Pi Pico"/>
-  <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=fff" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=fff" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=fff" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/-Sitios_Web_Estáticos-4B0082?logo=jekyll&logoColor=fff" alt="Sitios Web Estáticos"/>
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=fff" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=fff" alt="macOS"/>
-  <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=fff" alt="Windows"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=fff" alt="Flask" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="50"/>
 </div>
 
----
-
-#### 📄 Recursos adicionales
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoslopez&show_icons=true&locale=en&layout=compact&langs_count=15" alt="Estadísticas de lenguajes de programación de Santos López" /></p>
-
-<div align="center" style="background-color: blue; color: white; padding: 10px;">
-  <p>© 2025 - Santos López | Todos los derechos reservados</p>
+<code>Tecnologías de Desarrollo Web Frontend</code>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="HTML5" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="CSS3" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-icon.svg" alt="Bootstrap" width="50"/>
 </div>
 
-Regresar a <a href="https://github.com/santoslopez">inicio</a>
+<code>Sistemas de Gestión de Bases de Datos (DBMS)</code>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50"/>
+  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="SQL Server" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50"/>
+</div>
+
+<code>Herramientas de Desarrollo y Control de Versiones</code>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/git/git-icon.svg" alt="Git" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50"/>
+</div>
+
+<code>Herramientas de Diseño y Prototipado</code>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="Notion" width="50"/>
+</div>
+
+<code>Herramientas de Gestión y Desarrollo</code>
+<div align="center">
+  <!--img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50"/-->
+  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi Pico" width="50"/>
+</div>
+
+<code>Herramientas de Documentación y Procesamiento de Texto</code>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/latex/latex-icon.svg" alt="LaTeX" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/markdown/markdown-icon.svg" alt="Markdown" width="50"/>
+</div>
+
+<code>Herramientas y Tecnologías de Redes</code>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="50"/>
+</div>
+
+<code>Sitios Web Estáticos</code>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/jekyll/jekyll-icon.svg" alt="Sitios Web Estáticos" width="50"/>
+</div>
+
+<code>Sistemas Operativos</code>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macOS" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/windows/windows-icon.svg" alt="Windows" width="50"/>
+</div>
 
 ---
 
