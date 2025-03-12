@@ -3,6 +3,7 @@
 <div align="center">
   <img src="img/santoslopez.png" alt="Foto de Perfil de Santos" width="150"/>
   <h3>Santos López | Backend</h3>
+    [![committers.top badge](https://user-badge.committers.top/guatemala/santoslopez.svg)](https://user-badge.committers.top/guatemala/santoslopez)
   <!--p>
     <strong>Ingeniero de Software y Desarrollador Web</strong><br/>
     Especializado en desarrollo web full stack, apasionado por soluciones digitales.

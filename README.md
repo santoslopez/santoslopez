@@ -3,6 +3,7 @@
 <div align="center">
   <img src="img/santoslopez.png" alt="Foto de Perfil de Santos" width="150"/>
   <h3>Santos López | Backend</h3>
+  [![committers.top badge](https://user-badge.committers.top/guatemala/santoslopez.svg)](https://user-badge.committers.top/guatemala/santoslopez)
   <!--p>
     <strong>Ingeniero de Software y Desarrollador Web</strong><br/>
     Especializado en desarrollo web full stack, apasionado por soluciones digitales.
@@ -33,6 +34,9 @@
 - Soy Santos López, un apasionado del desarrollo de software con experiencia en proyectos personales. He trabajado con tecnologías como Python, PHP, Java, Flask y bases de datos relacionales como SQL Server, MySQL, PostgreSQL, Azure y SQLite. Me motiva enfrentar nuevos desafíos, aprender de manera continua y contribuir con soluciones innovadoras a proyectos tecnológicos.
 
 ### Educación  
+- **[Academia Europea](https://academiaeuropea.com/)**
+  - **Inglés básico** 
+    - En progreso 2025  
 - **[Universidad Galileo](https://www.galileo.edu/)**
   - **Maestría en Tecnologías de la Información** *(Magna Cum Laude)*  
     - Postgrado en Base de Datos 2024 
