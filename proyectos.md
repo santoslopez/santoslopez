@@ -18,7 +18,7 @@
 </div>
 
 ---
-[![committers.top badge](https://user-badge.committers.top/guatemala/santoslopez.svg)](https://user-badge.committers.top/guatemala/santoslopez)
+
 <div align="center">
   <a href="https://github.com/santoslopez"><img src="https://img.shields.io/badge/-Inicio-007bff?logo=home&logoColor=fff" alt="Inicio"/></a> | 
   <a href="proyectos.md"><img src="https://img.shields.io/badge/-Proyectos-28a745?logo=project-diagram&logoColor=fff" alt="Proyectos"/></a> |
@@ -28,7 +28,7 @@
 
 ---
 
-
+[![committers.top badge](https://user-badge.committers.top/guatemala/santoslopez.svg)](https://user-badge.committers.top/guatemala/santoslopez)
 ## 📋 Proyectos destacados
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">

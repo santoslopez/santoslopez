@@ -18,7 +18,6 @@
 </div>
 
 ---
-[![committers.top badge](https://user-badge.committers.top/guatemala/santoslopez.svg)](https://user-badge.committers.top/guatemala/santoslopez)
 <div align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/-Inicio-007bff?logo=home&logoColor=fff" alt="Inicio"/></a> | 
   <a href="proyectos.md"><img src="https://img.shields.io/badge/-Proyectos-28a745?logo=project-diagram&logoColor=fff" alt="Proyectos"/></a> |
@@ -27,7 +26,7 @@
 </div>
 
 ---
-
+[![committers.top badge](https://user-badge.committers.top/guatemala/santoslopez.svg)](https://user-badge.committers.top/guatemala/santoslopez)
 ## 😀 ¡Hola!
 
 - Soy Santos López, un apasionado del desarrollo de software con experiencia en proyectos personales. He trabajado con tecnologías como Python, PHP, Java, Flask y bases de datos relacionales como SQL Server, MySQL, PostgreSQL, Azure y SQLite. Me motiva enfrentar nuevos desafíos, aprender de manera continua y contribuir con soluciones innovadoras a proyectos tecnológicos.
