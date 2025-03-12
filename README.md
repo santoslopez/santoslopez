@@ -3,7 +3,6 @@
 <div align="center">
   <img src="img/santoslopez.png" alt="Foto de Perfil de Santos" width="150"/>
   <h3>Santos López | Backend</h3>
-  [![committers.top badge](https://user-badge.committers.top/guatemala/santoslopez.svg)](https://user-badge.committers.top/guatemala/santoslopez)
   <!--p>
     <strong>Ingeniero de Software y Desarrollador Web</strong><br/>
     Especializado en desarrollo web full stack, apasionado por soluciones digitales.
@@ -19,7 +18,7 @@
 </div>
 
 ---
-
+[![committers.top badge](https://user-badge.committers.top/guatemala/santoslopez.svg)](https://user-badge.committers.top/guatemala/santoslopez)
 <div align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/-Inicio-007bff?logo=home&logoColor=fff" alt="Inicio"/></a> | 
   <a href="proyectos.md"><img src="https://img.shields.io/badge/-Proyectos-28a745?logo=project-diagram&logoColor=fff" alt="Proyectos"/></a> |
